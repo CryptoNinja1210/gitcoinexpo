@@ -1,0 +1,34 @@
+gitcoinexpo.com
+
+fonts:
+https://fonts.google.com/specimen/Press+Start+2P?category=Display,Monospace&preview.text=Crypto&preview.text_type=custom
+https://fonts.google.com/specimen/Rubik?preview.text=Crypto&preview.text_type=custom
+
+
+The logo needs to be positioned in the top left corner of the website, accompanied by the text "GitCoinExpo" in a pixel font. The color scheme for the site should be black and white. All other fonts used should be cohesive and coordinated with each other. Feel free to unleash your creativity and experiment with different font combinations to achieve a harmonious look. Additionally, please incorporate a prominent "BUY TICKET" button. We are currently in the process of developing the sales website, and I will provide you with the ticket sales link as soon as it becomes available.
+
+1!)About Event
+GitCoinExpo is a premier blockchain conference network that brings together influential figures and industry experts to reshape the future of finance. The upcoming edition of GitCoinExpo is scheduled to take place in Dubai on DECEMBER 28, 2023, featuring the participation of the world's leading crypto companies and blockchain entrepreneurs. As Dubai emerges as a global crypto hub, GitCoinExpo serves as the gathering point for the worldwide community interested in blockchain and cryptocurrency, offering engaging discussions on cutting-edge financial technologies. Attendees can expect extensive networking opportunities and participation from over 40 countries, making it a truly global event.
+
+2!) Date: December 28, 2023 at 6:30 PM. Place - Dubai, ATLANTIS, THE PALM. 
+
+3!) Countdown (pixel style and in the color of the site style) 
+
+4!)Discussion Topics: 
+Identifying the gamechanging trends in the web 3.0 ecosystem 
+1)WHAT WEB 3.0 MEANS FOR ENTERPRISES (Fred Zhou)
+2)VALUE CREATION IN THE METAVERSE (Adrian Zduńczyk)
+3)THE ROLE OF STABLECOINS IN A DECENTRALIZED ECOSYSTEM (Victoria Scholar)
+4)DAOS: NEW BREED OF INTERNET-NATIVE ORGANIZATIONS (Stephen Lindsay)
+5)MAXIMIZING ESG IMPACT WITH BLOCKCHAIN (Daniel Antcliff)
+6)BRIDGING DEFI AND CEFI (Ilyas Vali)
+7)WEB 3 GAMING: THE NEW FRONTIER? (Russell Armand)
+8)DECRYPTING THE REGULATORY LANDSCAPE OF VIRTUAL ASSETS (Danny Winn)
+9)CENTRAL BANK DIGITAL CURRENCIES, AND CROSS-BORDER PAYMENTS (Lex Sokolin)
+10)WEB 3: THE FUTURE IS HERE AND NOW (Pieter Vanhove)
+11)NFT MARKET OVERVIEW: TRENDS & OPPORTUNITIES (Lennix Lai) 
+12)INTEROPERABILITY - CHALLENGES AND OPPORTUNITIES (Delphine Forma)
+
+5!)speakers (4 people in one line. add a pixel background like circles or squares. classic font for names)
+
+6!)sponsors (4 sponsors in one line. classic font for names)
